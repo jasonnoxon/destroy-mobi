@@ -1,8 +1,7 @@
 import glob
 import os.path
 
-# library_path = "/path/to/Calibre Library"
-library_path = "/Users/jason/Documents/Calibre Library/"
+library_path = "/path/to/Calibre Library"
 count = 0
 
 
